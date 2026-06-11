@@ -33,10 +33,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-Choudhary-gh&style=flat-square&color=F97316&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Aditya-Choudhary-gh?style=flat-square&color=06B6D4&label=Followers&logo=github" />
+  <img src="https://img.shields.io/github/followers/Aditya-Choudhary-gh?affiliations=OWNER&style=flat-square&color=06B6D4&label=Followers&logo=github" />
   &nbsp;
   <img src="https://img.shields.io/github/stars/Aditya-Choudhary-gh?style=flat-square&color=EAB308&label=Total+Stars&logo=github" />
 </p>
+
 ---
 
 ## About
