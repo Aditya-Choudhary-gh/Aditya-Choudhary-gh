@@ -226,12 +226,6 @@ Actively managing pubic relations across the chapter.
 ![NPTEL DSA](https://img.shields.io/badge/NPTEL-Data_Structures_%26_Algorithms-5B21B6?style=flat-square&logoColor=white)
 ![NPTEL Python](https://img.shields.io/badge/NPTEL-Python_for_Data_Science-4C1D95?style=flat-square&logoColor=white)
 
-**University Coursework**
-
-![AI/ML](https://img.shields.io/badge/GEHU-AI_%26_Machine_Learning-7C3AED?style=flat-square&logoColor=white)
-![Digital Electronics](https://img.shields.io/badge/GEHU-Digital_Electronics_%26_Microprocessors-6D28D9?style=flat-square&logoColor=white)
-![Python Programming](https://img.shields.io/badge/GEHU-Python_Programming-5B21B6?style=flat-square&logo=python&logoColor=white)
-
 ---
 
 ## Coding Profiles
