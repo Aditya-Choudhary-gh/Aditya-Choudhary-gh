@@ -77,7 +77,6 @@ Tools
 ```
 ✅  Built and deployed first ML project (Burnout Predictor)
 ✅  Contributed to a C-based systems/security project (KeyCheeky)
-✅  Started Andrew Ng ML course independently before semester
 ✅  Grinding Striver A2Z DSA Sheet (C++)
 🔄  100 Days of DSA challenge — in progress
 🎯  Target: Top competitive programmer in my batch
@@ -86,7 +85,7 @@ Tools
 ⚡ Fun Facts
 🏔️  From Dehradun — the mountains keep the mind sharp
 💻  I believe writing DSA by hand builds real intuition
-🤖  Studying ML before it's even on my curriculum
+🤖  Studying before it's even on my curriculum
 🔁  Consistent progress > occasional bursts of brilliance
 ---
 <div align="center">
