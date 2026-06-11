@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=B.Tech+CSE+%40+UPES+Dehradun;Data+Structures+%26+Algorithms+%7C+C+%2B+Python;Machine+Learning+%7C;Full+Stack+%7C+Tkinter+%7C+scikit-learn+%7C+MongoDB;ACM+Student+Chapter+%7C+PR and Sponsorship HEAD UPES-ACM;Building+AI-Powered+Products+from+Scratch" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+UPES+Dehradun;Data+Structures+%26+Algorithms+%7C+C+%2B+Python;Machine+Learning+%7C+Andrew+Ng+Curriculum;Full+Stack+%7C+Tkinter+%7C+scikit-learn+%7C+MongoDB;PR+%26+Sponsorship+HEAD+%40+UPES-ACM;Building+AI-Powered+Products+from+Scratch" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +11,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/UPES-Dehradun-6D28D9?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ACM-Student_Member-4C1D95?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/UPES--ACM-PR_%26_Sponsorship_HEAD-4C1D95?style=flat-square&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/📍-Dehradun,_India-5B21B6?style=flat-square&logoColor=white" />
 </p>
@@ -27,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:aadi15082007@gmail.com">
+  <a href="mailto:adityachoudhary@example.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -48,11 +46,11 @@
 
 ## About
 
-I am a second-year Computer Science undergraduate at UPES University, Dehradun, building a deep foundation in software engineering, machine learning, and full-stack development. My engineering philosophy is product-first: I build things that solve real problems, not just things that compile.
+I am a second-year Computer Science undergraduate at Graphic Era Hill University, Dehradun, building a deep foundation in software engineering, machine learning, and full-stack development. My engineering philosophy is product-first: I build things that solve real problems, not just things that compile.
 
-My technical focus spans three pillars — **algorithms and data structures** , **applied machine learning** , and **full-stack application engineering** (Python, Tkinter, MongoDB, Vercel-deployed frontends). I have shipped production-grade desktop software, deployed live portfolio infrastructure, and contributed to institutional-level research and event systems.
+My technical focus spans three pillars — **algorithms and data structures** (Striver's A2Z, daily LeetCode), **applied machine learning** (Andrew Ng curriculum, scikit-learn, SHAP, VADER), and **full-stack application engineering** (Python, Tkinter, MongoDB, Vercel-deployed frontends). I have shipped production-grade desktop software, deployed live portfolio infrastructure, and contributed to institutional-level research and event systems.
 
-Within the ACM Student Chapter, I operateD across Tech , Events and PR — having organized and executed events end-to-end and am now acting as the **PR and Sponsorship Head UPES-ACM**
+Within the ACM Student Chapter, I operate across Events and PR — having organized and executed Sherlocked 4.0, Predator League, and ProtoRush 2.0 end-to-end.
 
 **Open To:** Research collaborations &nbsp;·&nbsp; Open source contributions &nbsp;·&nbsp; SDE internships &nbsp;·&nbsp; ML engineering roles &nbsp;·&nbsp; Hackathon teams
 
@@ -183,17 +181,15 @@ A living repository of Python projects built progressively from fundamentals thr
 
 ## Experience
 
-**Tech , Events & PR Core — ACM Student Chapter, UPES**
-`2025 – 2026`
+**Events & PR Core — ACM Student Chapter, GEHU**
+`2024 – Present`
 
-Contributing as an active organizer and public relations lead within the ACM Student Chapter at UPES University. Responsible for end-to-end event execution, stakeholder communication, sponsorship coordination, and post-event reporting.
+Contributing as an active organizer and public relations lead within the ACM Student Chapter at Graphic Era Hill University. Responsible for end-to-end event execution, stakeholder communication, sponsorship coordination, and post-event reporting.
+
+- Organized and executed **Sherlocked 4.0** — a competitive logic and mystery challenge event
+- Coordinated **Predator League** — a large-scale intercollegiate gaming competition
+- Led operations for **ProtoRush 2.0** — a hardware prototyping and innovation hackathon
 - Managed PR pipelines: outreach, social media, sponsorship collateral, and event branding
-
-**PR and Sponsorship Head - ACM Student Chapter , UPES**
-`2026 – ongoing`
-
-Acting as the PR and Sponsorship head of UPES-ACM Student Chapter and actively working to maintain public relations and Sponsorships
-  
 
 `Python` `Event Management` `Stakeholder Communication` `Public Relations` `Team Coordination`
 
@@ -206,8 +202,9 @@ Acting as the PR and Sponsorship head of UPES-ACM Student Chapter and actively w
 | Recognition | Details |
 |:---:|:---|
 | 🏆 99.52% ML Model Accuracy | Logistic Regression burnout detection model — production deployed |
+| 🎯 Striver's A2Z Progress | Active daily DSA commitment — trees, graphs, advanced structures |
 | 🌐 Live Portfolio Deployment | WebGL + Vercel portfolio shipped and publicly accessible |
-| 🏛️ ACM Active Contributor | major events organized end-to-end |
+| 🏛️ ACM Active Contributor | 3 major events organized end-to-end |
 | 🤖 End-to-End ML App | Full pipeline: data → model → desktop UI → MongoDB persistence |
 | 📊 Stakeholder Mapping | District-level contact directory built for Barabanki, Uttar Pradesh |
 
@@ -300,8 +297,8 @@ Acting as the PR and Sponsorship head of UPES-ACM Student Chapter and actively w
 ```yaml
 currently:
   learning:
-    - DSA — advanced graphs, dynamic programming
-    - ML Specialization — neural networks, unsupervised learning
+    - Striver's A2Z DSA Sheet — advanced graphs, dynamic programming
+    - Andrew Ng ML Specialization — neural networks, unsupervised learning
     - System design fundamentals for backend engineering
   building:
     - AI-Powered Study Planner App — capstone personal project
