@@ -9,13 +9,13 @@
   &nbsp;
   <img src="https://img.shields.io/badge/UPES-Dehradun-0EA5E9?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/UPES--ACM-PR_%26_Sponsorship_HEAD-6366F1?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/UPES--ACM-PR_%26_Sponsorship_HEAD-10B981?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📍-Dehradun,_India-EC4899?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍-Dehradun,_India-F43F5E?style=flat-square&logoColor=white" />
 </p>
 <p align="center">
   <a href="https://adityachoudhary-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-adityachoudhary-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-adityachoudhary-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/aditya-choudhary-770a9b2a3/" target="_blank">
@@ -31,13 +31,12 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-Choudhary-gh&style=flat-square&color=7C3AED&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aditya-Choudhary-gh&style=flat-square&color=F97316&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Aditya-Choudhary-gh?style=flat-square&color=0EA5E9&label=Followers&logo=github" />
+  <img src="https://img.shields.io/github/followers/Aditya-Choudhary-gh?style=flat-square&color=06B6D4&label=Followers&logo=github" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Aditya-Choudhary-gh?style=flat-square&color=F59E0B&label=Total+Stars&logo=github" />
+  <img src="https://img.shields.io/github/stars/Aditya-Choudhary-gh?style=flat-square&color=EAB308&label=Total+Stars&logo=github" />
 </p>
-
 ---
 
 ## About
