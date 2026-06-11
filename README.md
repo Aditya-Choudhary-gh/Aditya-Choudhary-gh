@@ -18,17 +18,15 @@ public:
         "Competitive Programming"
     };
 
-    std::string goal = "Become one of the top coders in my batch.";
+    std::string goal = "Become one of the top coders.";
 
     std::string motto() {
         return "Ship it. Learn from it. Level up.";
     }
 };
 ```
-🔭 Currently grinding Striver's A2Z DSA Sheet in C++
-🤖 Self-studying Andrew Ng's ML course before my semester starts
 🛠️ Building real ML projects — no shortcuts, no black-box APIs
-📍 Based in Dehradun | Competing for the top spot in my batch
+📍 Based in Dehradun | Competing for the top spot 
 ---
 🛠️ Tech Stack
 Languages
@@ -73,16 +71,13 @@ Tools
 ```
 ✅  Built and deployed first ML project (Burnout Predictor)
 ✅  Contributed to a C-based systems/security project (KeyCheeky)
-✅  Started Andrew Ng ML course independently before semester
-✅  Grinding Striver A2Z DSA Sheet (C++)
 🔄  100 Days of DSA challenge — in progress
-🎯  Target: Top competitive programmer in my batch
+🎯  Target: Top competitive programmer 
 ```
 ---
 ⚡ Fun Facts
 🏔️ From Dehradun — the mountains keep the mind sharp
 💻 I believe writing DSA by hand builds real intuition
-🤖 Studying ML before it's even on my curriculum
 🔁 Consistent progress > occasional bursts of brilliance
 ---
 "The best time to start was yesterday. The second best time is now."
