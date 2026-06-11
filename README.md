@@ -89,7 +89,7 @@ Within the ACM Student Chapter, I operate across Tech , Events and PR — having
 ## AI & ML Expertise
 
 | Domain | Details |
-|---|---|---|
+|---|---|
 | Supervised Learning | Logistic Regression, KNN, Decision Trees, SMOTE for imbalanced datasets |
 | Unsupervised Learning | PCA, LDA, ICA — dimensionality reduction and feature extraction |
 | Model Explainability | SHAP values, feature importance visualization, transparent ML |
@@ -97,7 +97,7 @@ Within the ACM Student Chapter, I operate across Tech , Events and PR — having
 | ML Engineering | End-to-end pipelines: data ingestion → training → inference → desktop UI |
 | Data Engineering | Pandas, NumPy, Matplotlib, CSV/MongoDB data pipelines |
 | Deep Learning | Foundations via Andrew Ng curriculum — actively progressing |
-| DSA for ML Systems| Trees, graphs, sorting/searching — algorithmic foundation for scalable ML |
+| DSA for ML Systems | Trees, graphs, sorting/searching — algorithmic foundation for scalable ML |
 
 ---
 
