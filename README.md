@@ -181,7 +181,7 @@ A living repository of Python projects built progressively from fundamentals thr
 
 ## Experience
 
-**Events & PR Core — ACM Student Chapter, UPES** 
+**TECH , Events & PR Core — ACM Student Chapter, UPES** 
 `2025 – 26`
 
 Contributed as an active organizer and public relations lead within the ACM Student Chapter at Graphic Era Hill University. Responsible for end-to-end event execution, stakeholder communication, sponsorship coordination, and post-event reporting.
