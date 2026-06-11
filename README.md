@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Aditya Choudhary</h1>
 
 <p align="center">
@@ -196,4 +196,4 @@ Core CS Fundamentals
 <p align="center">
 <i>“Consistency beats intensity. Build daily, improve steadily.”</i>
 </p>
-```
+
