@@ -1,45 +1,41 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aditya%20Choudhary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+UPES+Dehradun;Data+Structures+%26+Algorithms+%7C+C+%2B+Python;Full+Stack+%7C+Tkinter+%7C+scikit-learn+%7C+MongoDB;PR+%26+Sponsorship+HEAD+%40+UPES-ACM;Building+AI-Powered+Products+from+Scratch" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech_CSE-2nd_Year-7C3AED?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/UPES-Dehradun-6D28D9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/UPES-Dehradun-0EA5E9?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/UPES--ACM-PR_%26_Sponsorship_HEAD-4C1D95?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/UPES--ACM-PR_%26_Sponsorship_HEAD-6366F1?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📍-Dehradun,_India-5B21B6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍-Dehradun,_India-EC4899?style=flat-square&logoColor=white" />
 </p>
-
 <p align="center">
   <a href="https://adityachoudhary-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-adityachoudhary-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/aditya-choudhary-770a9b2a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:adityachoudhary@example.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Aditya-Choudhary-gh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@Aditya--Choudhary--gh-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-@Aditya--Choudhary--gh-24292F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-Choudhary-gh&style=flat-square&color=7C3AED&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Aditya-Choudhary-gh?style=flat-square&color=6D28D9&label=Followers&logo=github" />
+  <img src="https://img.shields.io/github/followers/Aditya-Choudhary-gh?style=flat-square&color=0EA5E9&label=Followers&logo=github" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Aditya-Choudhary-gh?style=flat-square&color=5B21B6&label=Total+Stars&logo=github" />
+  <img src="https://img.shields.io/github/stars/Aditya-Choudhary-gh?style=flat-square&color=F59E0B&label=Total+Stars&logo=github" />
 </p>
 
 ---
