@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aditya%20Choudhary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+UPES+Dehradun;Data+Structures+%26+Algorithms+%7C+C+%2B+Python;Full+Stack+%7C+Tkinter+%7C+scikit-learn+%7C+MongoDB;PR+%26+Sponsorship+HEAD+%40+UPES-ACM;Building+AI-Powered+Products+from+Scratch" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech_CSE-2nd_Year-7C3AED?style=flat-square&logoColor=white" />
   &nbsp;
@@ -13,6 +15,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/📍-Dehradun,_India-F43F5E?style=flat-square&logoColor=white" />
 </p>
+
 <p align="center">
   <a href="https://adityachoudhary-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-adityachoudhary-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -30,12 +33,13 @@
     <img src="https://img.shields.io/badge/GitHub-@Aditya--Choudhary--gh-24292F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-Choudhary-gh&style=flat-square&color=F97316&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/Aditya-Choudhary-gh?affiliations=OWNER&style=flat-square&color=06B6D4&label=Followers&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-2-06B6D4?style=flat-square&logo=github&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/Aditya-Choudhary-gh?style=flat-square&color=EAB308&label=Total+Stars&logo=github" />
+  <img src="https://img.shields.io/badge/Total_Stars-0-EAB308?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
