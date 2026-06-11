@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+UPES+Dehradun;Data+Structures+%26+Algorithms+%7C+C+%2B+Python;Machine+Learning+%7C+Andrew+Ng+Curriculum;Full+Stack+%7C+Tkinter+%7C+scikit-learn+%7C+MongoDB;PR+%26+Sponsorship+HEAD+%40+UPES-ACM;Building+AI-Powered+Products+from+Scratch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+UPES+Dehradun;Data+Structures+%26+Algorithms+%7C+C+%2B+Python;Full+Stack+%7C+Tkinter+%7C+scikit-learn+%7C+MongoDB;PR+%26+Sponsorship+HEAD+%40+UPES-ACM;Building+AI-Powered+Products+from+Scratch" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -46,11 +46,11 @@
 
 ## About
 
-I am a second-year Computer Science undergraduate at Graphic Era Hill University, Dehradun, building a deep foundation in software engineering, machine learning, and full-stack development. My engineering philosophy is product-first: I build things that solve real problems, not just things that compile.
+I am a second-year Computer Science undergraduate at UPES University , Dehradun, building a deep foundation in software engineering, machine learning, and full-stack development. My engineering philosophy is product-first: I build things that solve real problems, not just things that compile.
 
 My technical focus spans three pillars — **algorithms and data structures** (Striver's A2Z, daily LeetCode), **applied machine learning** (Andrew Ng curriculum, scikit-learn, SHAP, VADER), and **full-stack application engineering** (Python, Tkinter, MongoDB, Vercel-deployed frontends). I have shipped production-grade desktop software, deployed live portfolio infrastructure, and contributed to institutional-level research and event systems.
 
-Within the ACM Student Chapter, I operate across Events and PR — having organized and executed Sherlocked 4.0, Predator League, and ProtoRush 2.0 end-to-end.
+Within the ACM Student Chapter, I operate across Tech , Events and PR — having organized and executed events end-to-end and am now working as the PR & Sponsorship Head UPES-ACM 
 
 **Open To:** Research collaborations &nbsp;·&nbsp; Open source contributions &nbsp;·&nbsp; SDE internships &nbsp;·&nbsp; ML engineering roles &nbsp;·&nbsp; Hackathon teams
 
@@ -181,15 +181,18 @@ A living repository of Python projects built progressively from fundamentals thr
 
 ## Experience
 
-**Events & PR Core — ACM Student Chapter, GEHU**
-`2024 – Present`
+**Events & PR Core — ACM Student Chapter, UPES** 
+`2025 – 26`
 
-Contributing as an active organizer and public relations lead within the ACM Student Chapter at Graphic Era Hill University. Responsible for end-to-end event execution, stakeholder communication, sponsorship coordination, and post-event reporting.
+Contributed as an active organizer and public relations lead within the ACM Student Chapter at Graphic Era Hill University. Responsible for end-to-end event execution, stakeholder communication, sponsorship coordination, and post-event reporting.
 
-- Organized and executed **Sherlocked 4.0** — a competitive logic and mystery challenge event
-- Coordinated **Predator League** — a large-scale intercollegiate gaming competition
-- Led operations for **ProtoRush 2.0** — a hardware prototyping and innovation hackathon
+- Organized and executed events end to end.
 - Managed PR pipelines: outreach, social media, sponsorship collateral, and event branding
+
+**PR & Sponsorship Head — ACM Student Chapter, UPES** 
+`2026 – `
+
+Actively managing pubic relations across the chapter.
 
 `Python` `Event Management` `Stakeholder Communication` `Public Relations` `Team Coordination`
 
@@ -202,7 +205,6 @@ Contributing as an active organizer and public relations lead within the ACM Stu
 | Recognition | Details |
 |:---:|:---|
 | 🏆 99.52% ML Model Accuracy | Logistic Regression burnout detection model — production deployed |
-| 🎯 Striver's A2Z Progress | Active daily DSA commitment — trees, graphs, advanced structures |
 | 🌐 Live Portfolio Deployment | WebGL + Vercel portfolio shipped and publicly accessible |
 | 🏛️ ACM Active Contributor | 3 major events organized end-to-end |
 | 🤖 End-to-End ML App | Full pipeline: data → model → desktop UI → MongoDB persistence |
@@ -297,8 +299,6 @@ Contributing as an active organizer and public relations lead within the ACM Stu
 ```yaml
 currently:
   learning:
-    - Striver's A2Z DSA Sheet — advanced graphs, dynamic programming
-    - Andrew Ng ML Specialization — neural networks, unsupervised learning
     - System design fundamentals for backend engineering
   building:
     - AI-Powered Study Planner App — capstone personal project
@@ -309,7 +309,7 @@ currently:
     - FastAPI for ML model serving
     - Cloud deployment — AWS / GCP fundamentals
   open_to:
-    - SDE internships (2025 summer / off-cycle)
+    - SDE internships (2026 summer / off-cycle)
     - ML engineering research collaborations
     - Open source project contributions
     - Hackathon teams — preferably AI/ML or full-stack tracks
