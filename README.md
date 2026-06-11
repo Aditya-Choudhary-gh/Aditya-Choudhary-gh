@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=B.Tech+CSE+%40+UPES+Dehradun;Data+Structures+%26+Algorithms+%7C+C+%2B+Python;Machine+Learning+%7C;Full+Stack+%7C+Tkinter+%7C+scikit-learn+%7C+MongoDB;ACM+Student+Chapter+%7C+Tech,Events+%26+PR;Building+AI-Powered+Products+from+Scratch" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=B.Tech+CSE+%40+UPES+Dehradun;Data+Structures+%26+Algorithms+%7C+C+%2B+Python;Machine+Learning+%7C;Full+Stack+%7C+Tkinter+%7C+scikit-learn+%7C+MongoDB;ACM+Student+Chapter+%7C+PR and Sponsorship HEAD UPES-ACM;Building+AI-Powered+Products+from+Scratch" alt="Typing SVG" />
   </a>
 </p>
 
