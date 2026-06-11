@@ -264,14 +264,6 @@ Actively managing pubic relations across the chapter.
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Choudhary-gh&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" />
-</p>
-
----
-
 ## Contribution Activity
 
 <p align="center">
