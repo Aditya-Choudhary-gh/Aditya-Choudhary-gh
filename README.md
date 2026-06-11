@@ -88,23 +88,23 @@ Within the ACM Student Chapter, I operate across Tech , Events and PR — having
 
 ## AI & ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Details |
 |---|---|---|
-| Supervised Learning | ◆◆◆◆◇ | Logistic Regression, KNN, Decision Trees, SMOTE for imbalanced datasets |
-| Unsupervised Learning | ◆◆◆◇◇ | PCA, LDA, ICA — dimensionality reduction and feature extraction |
-| Model Explainability | ◆◆◆◆◇ | SHAP values, feature importance visualization, transparent ML |
-| NLP & Sentiment Analysis | ◆◆◆◇◇ | VADER sentiment pipeline integrated into production applications |
-| ML Engineering | ◆◆◆◆◇ | End-to-end pipelines: data ingestion → training → inference → desktop UI |
-| Data Engineering | ◆◆◆◇◇ | Pandas, NumPy, Matplotlib, CSV/MongoDB data pipelines |
-| Deep Learning | ◆◆◇◇◇ | Foundations via Andrew Ng curriculum — actively progressing |
-| DSA for ML Systems | ◆◆◆◆◇ | Trees, graphs, sorting/searching — algorithmic foundation for scalable ML |
+| Supervised Learning | Logistic Regression, KNN, Decision Trees, SMOTE for imbalanced datasets |
+| Unsupervised Learning | PCA, LDA, ICA — dimensionality reduction and feature extraction |
+| Model Explainability | SHAP values, feature importance visualization, transparent ML |
+| NLP & Sentiment Analysis | VADER sentiment pipeline integrated into production applications |
+| ML Engineering | End-to-end pipelines: data ingestion → training → inference → desktop UI |
+| Data Engineering | Pandas, NumPy, Matplotlib, CSV/MongoDB data pipelines |
+| Deep Learning | Foundations via Andrew Ng curriculum — actively progressing |
+| DSA for ML Systems| Trees, graphs, sorting/searching — algorithmic foundation for scalable ML |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>🔥 Burnout Predictor App — Student Mental Health Early Warning System</b></summary>
+<summary><b> Burnout Predictor App — Student Mental Health Early Warning System</b></summary>
 
 <br>
 
@@ -126,7 +126,7 @@ The application features a custom maroon-black and aged gold UI aesthetic — de
 </details>
 
 <details>
-<summary><b>🌐 Developer Portfolio — WebGL Terminal Animation on Vercel</b></summary>
+<summary><b> Developer Portfolio — WebGL Terminal Animation on Vercel</b></summary>
 
 <br>
 
@@ -145,7 +145,7 @@ A live, deployed personal portfolio with a warm sunset aesthetic, WebGL-powered 
 </details>
 
 <details>
-<summary><b>📚 100 Days of DSA — Systematic Algorithm Engineering in C</b></summary>
+<summary><b> 100 Days of DSA — Systematic Algorithm Engineering in C</b></summary>
 
 <br>
 
@@ -163,7 +163,7 @@ A structured, daily-commit DSA repository tracking 100 days of algorithm enginee
 </details>
 
 <details>
-<summary><b>🐍 Python Mini Projects — Fundamentals to Applied Engineering</b></summary>
+<summary><b> Python Mini Projects — Fundamentals to Applied Engineering</b></summary>
 
 <br>
 
@@ -204,11 +204,11 @@ Actively managing pubic relations across the chapter.
 
 | Recognition | Details |
 |:---:|:---|
-| 🏆 99.52% ML Model Accuracy | Logistic Regression burnout detection model — production deployed |
-| 🌐 Live Portfolio Deployment | WebGL + Vercel portfolio shipped and publicly accessible |
-| 🏛️ ACM Active Contributor | 3 major events organized end-to-end |
-| 🤖 End-to-End ML App | Full pipeline: data → model → desktop UI → MongoDB persistence |
-| 📊 Stakeholder Mapping | District-level contact directory built for Barabanki, Uttar Pradesh |
+| * 99.52% ML Model Accuracy | Logistic Regression burnout detection model — production deployed |
+| * Live Portfolio Deployment | WebGL + Vercel portfolio shipped and publicly accessible |
+| * ACM Active Contributor | 3 major events organized end-to-end |
+| * End-to-End ML App | Full pipeline: data → model → desktop UI → MongoDB persistence |
+| * Stakeholder Mapping | District-level contact directory built for Barabanki, Uttar Pradesh |
 
 </p>
 
