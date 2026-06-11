@@ -167,7 +167,7 @@ https://github.com/Aditya-Choudhary-gh/My_Portfolio
 # Current Focus
 
 ```txt
-DSA (Striver A2Z)
+DSA 
 Machine Learning Projects
 Competitive Programming
 Core CS Fundamentals
