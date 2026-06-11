@@ -48,7 +48,7 @@
 
 I am a second-year Computer Science undergraduate at UPES University , Dehradun, building a deep foundation in software engineering, machine learning, and full-stack development. My engineering philosophy is product-first: I build things that solve real problems, not just things that compile.
 
-My technical focus spans three pillars — **algorithms and data structures** (Striver's A2Z, daily LeetCode), **applied machine learning** (Andrew Ng curriculum, scikit-learn, SHAP, VADER), and **full-stack application engineering** (Python, Tkinter, MongoDB, Vercel-deployed frontends). I have shipped production-grade desktop software, deployed live portfolio infrastructure, and contributed to institutional-level research and event systems.
+My technical focus spans three pillars — **algorithms and data structures** , **applied machine learning** (scikit-learn, SHAP, VADER), and **full-stack application engineering** (Python, Tkinter, MongoDB, Vercel-deployed frontends). I have shipped production-grade desktop software, deployed live portfolio infrastructure, and contributed to institutional-level research and event systems.
 
 Within the ACM Student Chapter, I operate across Tech , Events and PR — having organized and executed events end-to-end and am now working as the PR & Sponsorship Head UPES-ACM 
 
