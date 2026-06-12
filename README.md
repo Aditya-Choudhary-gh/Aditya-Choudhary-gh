@@ -204,7 +204,7 @@ Actively managing pubic relations across the chapter.
 
 | Recognition | Details |
 |:---:|:---|
-| * 99.52% ML Model Accuracy | Logistic Regression burnout detection model — production deployed |
+| * 87% ML Model Accuracy | Logistic Regression burnout detection model — production deployed |
 | * Live Portfolio Deployment | WebGL + Vercel portfolio shipped and publicly accessible |
 | * ACM Active Contributor | 3 major events organized end-to-end |
 | * End-to-End ML App | Full pipeline: data → model → desktop UI → MongoDB persistence |
