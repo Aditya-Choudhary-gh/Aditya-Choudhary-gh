@@ -57,17 +57,8 @@ Within the ACM Student Chapter, I operate across Tech , Events and PR — having
 ---
 
 ## Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css&theme=dark&perline=10" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vercel,nodejs&theme=dark&perline=10" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql&theme=dark&perline=10" />
 </p>
 
 <p align="center">
@@ -83,7 +74,6 @@ Within the ACM Student Chapter, I operate across Tech , Events and PR — having
   <img src="https://img.shields.io/badge/VADER-6D28D9?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
-
 ---
 
 ## Featured Projects
