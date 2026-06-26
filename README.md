@@ -199,18 +199,6 @@ Actively managing pubic relations across the chapter.
 
 ---
 
-## Certifications
-
-**Coursera / DeepLearning.AI**
-
-![Andrew Ng ML](https://img.shields.io/badge/Andrew_Ng-Machine_Learning_Specialization-7C3AED?style=flat-square&logo=coursera&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/DeepLearning.AI-Deep_Learning_Foundations-6D28D9?style=flat-square&logo=coursera&logoColor=white)
-
-**NPTEL**
-
-![NPTEL DSA](https://img.shields.io/badge/NPTEL-Data_Structures_%26_Algorithms-5B21B6?style=flat-square&logoColor=white)
-![NPTEL Python](https://img.shields.io/badge/NPTEL-Python_for_Data_Science-4C1D95?style=flat-square&logoColor=white)
-
 ---
 
 ## Coding Profiles
