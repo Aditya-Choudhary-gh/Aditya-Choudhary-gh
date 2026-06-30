@@ -156,6 +156,11 @@ A living repository of Python projects built progressively from fundamentals thr
 
 ## Experience
 
+**PR & Sponsorship Head — ACM Student Chapter, UPES** 
+`2026 – `
+
+Actively managing pubic relations across the chapter.
+
 **TECH , Events & PR Core — ACM Student Chapter, UPES** 
 `2025 – 26`
 
@@ -164,10 +169,6 @@ Contributed as an active organizer and public relations lead within the ACM Stud
 - Organized and executed events end to end.
 - Managed PR pipelines: outreach, social media, sponsorship collateral, and event branding
 
-**PR & Sponsorship Head — ACM Student Chapter, UPES** 
-`2026 – `
-
-Actively managing pubic relations across the chapter.
 
 `Python` `Event Management` `Stakeholder Communication` `Public Relations` `Team Coordination`
 
